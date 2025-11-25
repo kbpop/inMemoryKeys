@@ -4,7 +4,7 @@
 
 int main()
 {
-    std::cout << "Welcome to Karls Keys" << std::endl;
+    std::cout << "Welcome to Ks Keys" << std::endl;
     std::cout << "An attempt at a key value database" << std::endl;
     KeyStore k("Ks keys");
 
@@ -64,6 +64,6 @@ int main()
         }
     }
 
-    std::cout << "Thank you for using Karls key store:)" << std::endl;
+    std::cout << "Thank you for using Ks key store:)" << std::endl;
     
 }
