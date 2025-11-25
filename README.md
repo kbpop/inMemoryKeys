@@ -16,3 +16,9 @@ I think some better clarification for what the interface should look like would 
 In addition some level of constraints would be nice. Like to what is something permissible. Since there actual enterprise software solutions for key-value stores there should be some concrete limits as to what should be completed / expected.
 
 Also this assignment is already pretty big but if some research would need to be done into different types of in memory key-value stores that would be nice. Then you have a wider "variety" of key-value stores to choose from.
+
+## Improvements to the database itself
+1. Add tcp interface
+2. Add a blob based value
+3. Have an LRU memory management
+4. Have Snapshots
